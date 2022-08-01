@@ -11,6 +11,7 @@ const [visible, setVisible] = useState(false);
 
 const toggleModal = () => {
   setVisible(!visible);
+  
 };
 
   return (
